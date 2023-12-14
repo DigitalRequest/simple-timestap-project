@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: auto auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.stopwatch_img {
+  padding: 1.5em;
+}
+
+.times-section {
+  max-height: 280px;
+  overflow-y: auto;
+}
